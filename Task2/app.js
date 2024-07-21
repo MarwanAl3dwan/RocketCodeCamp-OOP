@@ -34,7 +34,7 @@ class SpecialArray {
     return sequences;
   }
 
-  /* equilibriumIndices() {
+  equilibriumIndices() {
     let indices = [];
     for (let i = 0; i < this.array.length; i++) {
       let rightSum = 0;
@@ -54,7 +54,7 @@ class SpecialArray {
     }
     if (indices.length === 0) return -1;
     return indices;
-  }*/
+  }
 }
 
 // Case-1:
